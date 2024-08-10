@@ -18,7 +18,6 @@ Este projeto foi criado como parte do curso de Node.js da escola de programaçã
 - **Express**
 - **TypeScript**
 - **Zod**: Validação de esquema para o corpo das requisições
-- **HTTP Status Codes**: Tratamento de erros através de códigos HTTP
 
 ## Instalação
 
